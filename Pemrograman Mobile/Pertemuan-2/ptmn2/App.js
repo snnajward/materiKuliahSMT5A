@@ -9,8 +9,8 @@ export default function App() {
         Nama Lengkap : Najwa Ramadhan{"\n"}
         NIM : 2488010001{"\n"}
         Asal Sekolah : MAN 3 Cirebon{"\n"}
-        Cita-cita : Penulis{"\n"}
-        Rencana mencapai cita-cita : Menulis yang banyak
+        Cita-cita : Illustrator{"\n"}
+        Rencana mencapai cita-cita : Melatih keterampilan dasar menggambar secara konsisten
       </Text>
 
       <StatusBar style="auto" />
