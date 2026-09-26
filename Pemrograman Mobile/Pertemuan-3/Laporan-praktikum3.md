@@ -128,4 +128,4 @@ Setelah menyelesaikan praktikum ini, mahasiswa mampu:
 2. Melakukan pengujian terhadap tampilan profil, scrolling, switch, daftar skills, riwayat, form kontak, modal, dan tombol sosial media
 3. Hasil pengujian disesuaikan dengan fungsi yang telah dibuat pada aplikasi
 
-[▶️ Lihat video demonstrasi](gifsaya-1.mp4)
+![alt text](gifsaya.gif)
